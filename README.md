@@ -7,3 +7,4 @@ Khoutu ya ka pele ya weposaete ke mohlodi o bulegilego, o amogetšwe go thuša g
 * [khoutu ya pele-qetellong](https://github.com/xxai-art/web)
 * [Diphuthelwana tša polelo tša sebaka ka kakaretšo](https://github.com/xxai-art/web/tree/main/i18n)
 * [Diphuthelwana tša polelo tša dimmojule tša go tsena](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Webosaete Ditokomane tša Maleme a Mantši](https://github.com/xxai-doc)
